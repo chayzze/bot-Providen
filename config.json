@@ -1,0 +1,8 @@
+{
+    "token": "votre token de votre bot discord",
+    "prefix": "p!",
+    "greeting": {
+        "channel": "ID du salon de bienvenue",
+        "role": "ID de l'autorole"
+    }
+}

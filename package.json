@@ -1,0 +1,20 @@
+{
+  "name": "winado-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "github:discordjs/Commando",
+    "humanize-duration": "^3.25.1",
+    "moment": "^2.29.1",
+    "parse-duration": "^0.4.4",
+    "youtube-search": "^1.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chayzze",
+  "license": "ISC"
+}
